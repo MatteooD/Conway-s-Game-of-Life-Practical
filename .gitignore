@@ -1,0 +1,28 @@
+# Compilazione e build
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# File temporanei
+*.log
+*.tmp
+
+# Directory di build
+/build/
+bin/
+Debug/
+Release/
+
+# File di sistema macOS
+.DS_Store
+
+# File di sistema Windows
+Thumbs.db
+desktop.ini
+
+# File di progetto IDE (se usi Visual Studio Code)
+.vscode/
